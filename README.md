@@ -1,7 +1,7 @@
 # Sistema Web Black Box Network Services
 Esse sistema foi desenvolvido com a finalidade principal de trazer um gerenciamento de atividades da empresa, sendo elas (projeto ou on-going), não somente isso, mas também com intuito de ser um sistema ERP, contendo gerenciamento de colaboradores, finanças e estoque de materiais.
 
-# Tela inícial
+# Tela inicial
 
 ![Concept admin dashboard template preview](menu.png)
 
