@@ -13,7 +13,8 @@ Esse sistema foi desenvolvido com a finalidade principal de trazer um gerenciame
 - Cadastro de novas ordens de compras
 - Gerenciamento e histórico das ordens de compras
 - Gerenciamento e histórico de estoque para materiais
-- Controle de usuários e permissões          
+- Controle de usuários e permissões   
+- Relatórios e gráficos personalizados       
 
 
 ### Linguagens utilizadas 
