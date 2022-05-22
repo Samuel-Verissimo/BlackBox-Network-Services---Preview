@@ -7,15 +7,13 @@ Esse sistema foi desenvolvido com a finalidade principal de trazer um gerenciame
 
 ### Funcionalidades 
 
-- Entradas e saídas              (Financeiro)
-- Dados pessoais e documentações (Colaborades)
-- Atividades On-Going            (Atividades) 
-- Atividades Projetos            (Atividades) 
-- Entradas de OC's               (Atividades)
-- Saldo atuais OC's              (Atividades)
-- Gerenciamento de estoque       (Materiais)
-- Gerenciamento tab aux.         (Configurações BD)
-- Usuários e permissões          (Configurações BD)
+- Fluxo de caixa          
+- Gerenciamento de colaboradores + documentações
+- Gerenciamento e histórico de atividades da empresa
+- Cadastro de novas ordens de compras
+- Gerenciamento e histórico das ordens de compras
+- Gerenciamento e histórico de estoque para materiais
+- Controle de usuários e permissões          
 
 
 ### Linguagens utilizadas 
