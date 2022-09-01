@@ -20,7 +20,7 @@ Esse sistema foi desenvolvido exclusivamente e personalizadamente para essa empr
 ### Linguagens utilizadas 
 
 - PHP   
-- jQuery    (JavaScript)       
+- JavaScript (+ jQuery e AJAX)       
 - Bootstrap (Framework) 
 - MySQL     (Banco de dados)
 
