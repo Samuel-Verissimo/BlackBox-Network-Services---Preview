@@ -1,5 +1,5 @@
 # Black Box Network Services
-Esse sistema foi desenvolvido exclusivamente e personalizadamente para a empresa "Black Box", com a finalidade principal de trazer um gerenciamento de atividades diárias da empresa, mas também com intuito de ser um sistema ERP, contendo gerenciamento de colaboradores, finanças e estoque de materiais.
+Esse sistema foi desenvolvido e implantado exclusivamente para a empresa "Black Box", com a finalidade principal de trazer um gerenciamento de atividades diárias da empresa, mas também com intuito de ser um sistema ERP, contendo gerenciamento de colaboradores, finanças e estoque de materiais.
 
 # Tela inicial
 
