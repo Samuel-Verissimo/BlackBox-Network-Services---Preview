@@ -17,7 +17,7 @@ Esse sistema foi desenvolvido e implantado exclusivamente para a empresa "Black 
 - Relatórios e gráficos personalizados       
 
 
-### Linguagens utilizadas 
+### Tecnologias utilizadas 
 
 - PHP   
 - JavaScript (+ jQuery e AJAX)       
